@@ -12,7 +12,7 @@ Java implementations of core data structures and algorithms, written for CSCI 11
 | [HW2](HW2) | Sets & searching | `EmbeddedSet` — deciphering encoded messages by searching for embedded words in a cipher |
 | [HW3](HW3) | Sorting & searching | `ClassSchedule` — selection, bubble, and insertion sort + binary search on university schedule data; includes performance profiling |
 | [HW4](HW4) | Linked lists & array lists | `LinkedList` and `ArrayList` both implementing a `MusicCatalog` interface with `Song`/`CatalogItem` nodes — `add`, `remove`, `get`, `contains`, `clear`, `isEmpty` |
-| HW5 | Stacks & queues | `Stack` and `Queue` implementations used to simulate bank `Account` transactions |
+| [HW5](HW5) | Stacks & queues | `Stack` and `Queue` implementations used to simulate bank `Account` transactions |
 | HW6 | Maps & hash tables | `HashMap` (hash table) and `TreeMap` (BST) both implementing a `Map` interface — `put`, `get`, `delete` with performance analysis |
 
 ## Concepts covered
