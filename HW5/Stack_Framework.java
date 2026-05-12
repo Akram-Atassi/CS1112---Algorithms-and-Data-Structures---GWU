@@ -1,0 +1,53 @@
+/*--------------------------------------------------------------------------
+GWU CSCI 1112 Spring 2026
+author: <your name>, Charles Peeke 
+
+
+TODO - Summarize this class
+
+--------------------------------------------------------------------------*/
+
+public class Stack {
+    // TODO:
+    private StackElement top;
+    private int count;
+    
+    /// TODO:
+    public Stack() {
+
+    }
+    
+    /// TODO:
+    public void push(String s) {
+
+    }
+    
+    /// TODO: 
+    public String pop() {
+        return null;
+    }
+    
+    /// TODO: 
+    public boolean isEmpty() {
+        return false;
+    }
+
+    /// TODO:
+    public int size() {
+        return -1;
+    }
+
+    // TODO: 
+    @Override
+    public String toString() {
+        String s = "";
+        StackElement current = this.top;
+        while (current != null) {
+            s += current + " ";
+            current = current.next;
+        }
+        return s;
+    }
+}
+
+
