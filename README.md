@@ -31,4 +31,4 @@ Arrays, string/character manipulation, set operations, sorting (selection, bubbl
     lecture-notes/
 
 
-*Spring 2026 — course completed - changes in progress*
+*Spring 2026 — course completed - changes complete*
